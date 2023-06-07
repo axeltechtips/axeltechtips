@@ -17,3 +17,4 @@ What do I use GitHub for?
 
 and thats about it, have a wonderful day! :D
 
+[![Axel's GitHub stats](https://github-readme-stats.vercel.app/api?username=axeltechtips)](https://github.com/anuraghazra/github-readme-stats)
