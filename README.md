@@ -15,3 +15,4 @@ If you're interested in my projects, feel free to check them out. I'm always loo
 Thanks for visiting my GitHub profile! 😄
 
 [![Axel's GitHub stats](https://github-readme-stats.vercel.app/api?username=axeltechtips)](https://github.com/anuraghazra/github-readme-stats)
+[![Axel's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=axeltechtips)](https://github.com/anuraghazra/github-readme-stats)
