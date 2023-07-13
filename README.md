@@ -4,6 +4,6 @@
 
 I'm Axel..
 
-I do some coding, and helping the Modula team.
+I do some coding, and helping the Starix Project team.
 
 
