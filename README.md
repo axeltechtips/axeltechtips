@@ -8,6 +8,7 @@
 <h1>Hello, I'm Axel</h1>
 <p>This is my Github page.</p>
 <p>I am really familiar with Python, HTML, CSS, and JS.</p>
+<p>You can reach me at axel@codelazy.org</p>
 </body>
 </html>
 ```
