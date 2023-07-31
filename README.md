@@ -14,6 +14,6 @@
 Timezone:
 ```python
 print("Pacific Daylight Time")
-print("GMT Offset: GMT +7")
+print("GMT Offset: GMT -7")
 ```
 Based on itsnebula's README, and one that I created.
