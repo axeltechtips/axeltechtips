@@ -1,9 +1,7 @@
-👋 Hey there! I'm Axel, a developer passionate about crafting elegant solutions with Python, JavaScript, and HTML/CSS.
+## ⚠️ Notice
 
-🚀 As the founder of Liberty Browser 🌐, I'm on a mission to redefine the browsing experience. Join me in shaping the future of the web!
+This account is **no longer actively maintained**.
 
-💡 When I'm not immersed in Liberty Browser, I enjoy diving into side projects that challenge and inspire me like VoxelChat!
+All repositories have been moved to **[kashcotton/axeltechtips](https://github.com/kashcotton/axeltechtips)**.
 
-🔧 Tech stack: Python 🐍, JavaScript (including frameworks like React), and HTML/CSS for front-end magic.
-
-📫 Let's connect and collaborate on exciting projects! Whether it's brainstorming ideas or diving deep into code. 💻✨
+Please direct **all inquiries, pull requests, and issues** to [@kashcotton](https://github.com/kashcotton).
